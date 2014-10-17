@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oc:home|Door43 (oc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oc|d43-oc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oc/archive/master.zip|d43-oc.zip]]
+
+**Recent Changes**
+{{changes>ns = oc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oc|Ethnologue data]]
+
